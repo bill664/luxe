@@ -115,9 +115,6 @@
             </div>
         </div>
     </section>
-            </form>
-        </div>
-    </section>
 
     <!-- Footer Section -->
     <footer>
